@@ -4,6 +4,14 @@ All of the course materials for the [Zero to Mastery Deep Learning with TensorFl
 
 This course will teach you the foundations of deep learning and how to build and train neural networks for various problem types with TensorFlow/Keras.
 
+## Prerequesits
+
+- In terminal run the following to install all the required python packages
+
+```
+pip install notebook numpy tensorflow 
+```
+
 ## Important links
 * 🎥 Watch the [first 14-hours of the course on YouTube](https://dbourke.link/tfpart1part2) (notebooks 00, 01, 02)
 * 📖 Read the [beautiful online book version of the course](https://dev.mrdbourke.com/tensorflow-deep-learning/)
