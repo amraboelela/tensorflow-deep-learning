@@ -1,6 +1,11 @@
 .DS_Store
 */.DS_Store
-
+.python-version
 .venv
 .ipynb_checkpoints
 .ipynb_checkpoints/
+*.zip*
+*.h5
+*.keras
+*.jpg
+*.png
